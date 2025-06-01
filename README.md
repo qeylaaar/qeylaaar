@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qeylaaar&label=visitor?&color=000000&style=plastic" alt="qeylaaar" /> </p>
 
-- 🌱 I’m currently learning **Laravel, React, and Python**
+- 🌱 I’m currently learning **Laravel, React Native**
 
-- 💬 Ask me **anything**
+- 💬 Ask me **idk, whatever u would like to ask me**
 
-- 📫 How to reach me **qeylaraiqalva@gmail.com**
+- 📫 How to reach me **2ndqeyla@gmail.com**
 
-- ⚡ Fun fact **an averagee student and osu player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

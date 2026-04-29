@@ -32,7 +32,7 @@ I am a Software Engineering Technology student at Politeknik Negeri Subang, deep
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-
+---
 ### 📊 GitHub Stats
 
 <p align="center">

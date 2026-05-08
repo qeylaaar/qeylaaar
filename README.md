@@ -1,54 +1,22 @@
-# Hi there, I'm Alva! 👋
+# Hi There, Im Alva!
+# 💫 About Me:
+Fullstack Developer | Junior Web Programmer | AI Explorer<br>I am a Software Engineering Technology student at Politeknik Negeri Subang, deeply passionate about building scalable web applications, mobile solutions, and integrating smart hardware.<br><br>🎓 Current Focus: Leveling up in Fullstack Development and Computer Vision.<br>🛠️ Latest Project: Developing SPQC (Smart Pineapple Quality Control) using AI and IoT.<br>🏛️ Community: Former Head of Research & Technology at HIMATIKOM POLSUB.<br>🌐 Languages: Fluent in Indonesian, English, and Sundanese (certified Urang sunda asli).
 
-### Fullstack Developer | Junior Web Programmer | AI Explorer
 
-I am a Software Engineering Technology student at Politeknik Negeri Subang, deeply passionate about building scalable web applications, mobile solutions, and integrating smart hardware.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qeylaaar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qeylaaar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2ndqeyla@gmail.com) 
 
-- 🎓 **Current Focus:** Leveling up in Fullstack Development and Computer Vision.
-- 🛠️ **Latest Project:** Developing **SPQC** (Smart Pineapple Quality Control) using AI and IoT.
-- 🏛️ **Community:** Former Head of Research & Technology at HIMATIKOM POLSUB.
-- 🌐 **Languages:** Fluent in Indonesian, English, and Sundanese (certified Urang sunda asli).
+# 💻 Tech Stack:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=qeylaaar&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=qeylaaar&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=qeylaaar&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <!-- Tools yang sudah ada -->
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=qeylaaar&theme=synthwave&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-### 📊 GitHub Stats
+[![](https://komarev.com/ghpvc/?username=qeylaaar&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qeylaaar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qeylaaar&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Connect with me:
-
-<p align="center">
-  <a href="https://twitter.com/w3irdfleeeex" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/qeylaaar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/qeylaaar" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
----
-*"Bisa teu bisa, kudu bisa!"* 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
